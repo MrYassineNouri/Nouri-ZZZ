@@ -1,4 +1,4 @@
-# 🍽️ La Belle Table — Restaurant Booking System
+# 🍽️ Nouri'ZZZ — Restaurant Booking System
 
 > A dynamic PHP/MySQL restaurant reservation and ordering web application.
 
